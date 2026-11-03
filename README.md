@@ -147,8 +147,6 @@ ARIMA and Prophet with 95% confidence intervals, evaluated on a real 12-month ho
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
       <br><b>Java</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="SQL" />
       <br><b>SQL</b>
@@ -178,18 +176,14 @@ ARIMA and Prophet with 95% confidence intervals, evaluated on a real 12-month ho
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn" />
       <br><b>Scikit-learn</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60" height="60" alt="SciPy" />
+      <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="60" height="60" alt="SciPy" />
       <br><b>SciPy</b>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib" />
       <br><b>Matplotlib</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50" height="60" alt="Seaborn" />
       <br><b>Seaborn</b>
@@ -228,8 +222,6 @@ ARIMA and Prophet with 95% confidence intervals, evaluated on a real 12-month ho
       <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60" height="60" alt="Streamlit" />
       <br><b>Streamlit</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Tkinter" />
       <br><b>Tkinter</b>
@@ -265,8 +257,6 @@ ARIMA and Prophet with 95% confidence intervals, evaluated on a real 12-month ho
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="60" height="60" alt="Anaconda" />
       <br><b>Anaconda</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" alt="Jupyter" />
       <br><b>Jupyter</b>
@@ -275,8 +265,6 @@ ARIMA and Prophet with 95% confidence intervals, evaluated on a real 12-month ho
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60" height="60" alt="Google Colab" />
       <br><b>Colab</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" height="60" alt="Kaggle" />
       <br><b>Kaggle</b>
